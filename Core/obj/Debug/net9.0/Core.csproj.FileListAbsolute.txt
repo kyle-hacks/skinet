@@ -1,0 +1,11 @@
+/Users/kylegfc/Desktop/SkiNet/SKINET/Core/bin/Debug/net9.0/Core.deps.json
+/Users/kylegfc/Desktop/SkiNet/SKINET/Core/bin/Debug/net9.0/Core.dll
+/Users/kylegfc/Desktop/SkiNet/SKINET/Core/bin/Debug/net9.0/Core.pdb
+/Users/kylegfc/Desktop/SkiNet/SKINET/Core/obj/Debug/net9.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kylegfc/Desktop/SkiNet/SKINET/Core/obj/Debug/net9.0/Core.AssemblyInfoInputs.cache
+/Users/kylegfc/Desktop/SkiNet/SKINET/Core/obj/Debug/net9.0/Core.AssemblyInfo.cs
+/Users/kylegfc/Desktop/SkiNet/SKINET/Core/obj/Debug/net9.0/Core.csproj.CoreCompileInputs.cache
+/Users/kylegfc/Desktop/SkiNet/SKINET/Core/obj/Debug/net9.0/Core.dll
+/Users/kylegfc/Desktop/SkiNet/SKINET/Core/obj/Debug/net9.0/refint/Core.dll
+/Users/kylegfc/Desktop/SkiNet/SKINET/Core/obj/Debug/net9.0/Core.pdb
+/Users/kylegfc/Desktop/SkiNet/SKINET/Core/obj/Debug/net9.0/ref/Core.dll
