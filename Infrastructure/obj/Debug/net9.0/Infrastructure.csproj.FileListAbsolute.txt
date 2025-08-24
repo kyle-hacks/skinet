@@ -15,3 +15,4 @@
 /Users/kylegfc/Desktop/SkiNet/SKINET/Infrastructure/obj/Debug/net9.0/Infrastructure.pdb
 /Users/kylegfc/Desktop/SkiNet/SKINET/Infrastructure/obj/Debug/net9.0/Infrastructure.genruntimeconfig.cache
 /Users/kylegfc/Desktop/SkiNet/SKINET/Infrastructure/obj/Debug/net9.0/ref/Infrastructure.dll
+/Users/kylegfc/Desktop/SkiNet/SKINET/Infrastructure/obj/Debug/net9.0/Infrastructure.sourcelink.json
